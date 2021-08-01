@@ -11,3 +11,6 @@ The student IDs of the two responsible for the final project are listed below:
 ### Shortcuts
 1. Midterm Demo (the foundation for the final project). Please click [here](https://github.com/xczian/nccu_prototype/tree/master/midterm)
 2. Final Project - Playful Alarm with Snake. Please click [here](https://github.com/xczian/nccu_prototype/tree/master/final)
+
+### Description
+![](./img/controller.jpg)
