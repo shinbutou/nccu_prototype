@@ -4,7 +4,7 @@ The repository is dedicated to a course at National Chengchi University.
 * Course ID: 781040001
 * Semester: Spring 2021 (1092)
 
-The student IDs of the two responsible for the final project are listed below:
+The student IDs of the two primarily responsible for the final project are listed below:
 * 106308049
 * 107504031
 
