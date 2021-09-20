@@ -14,4 +14,5 @@ The student IDs of the two primarily responsible for the final project are liste
 
 ### Description
 The final project was a combination of alarm clock and the classic game, Snake. On the premise of many of the traditional counterparts being ineffective, we set out to make one that gives a experience of playfulness while achieving the same goal without much discomfort.
+
 ![](./img/controller.jpg)
