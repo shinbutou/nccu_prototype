@@ -13,6 +13,6 @@ The student IDs of the two primarily responsible for the final project are liste
 2. Final Project - Playful Alarm with Snake. Please click [here](https://github.com/xczian/nccu_prototype/tree/master/final)
 
 ### Description
-The final project was to combine alarm clock and the classic game, Snake. On the premise of many traditional counterparts being ineffective by experience, we set out to make one without much discomfort. The theme of pacman was used to replace the monotone noise. By integrating all functions, implementing background music, monitor refresh rate, and game status computation, we produced a prototype that is playful and sufficient for real-world use.
+The final project was to combine alarm clock and the classic game, Snake. On the premise of many traditional counterparts being ineffective by experience, we set out to make one without much discomfort. The theme of pacman was used to replace the monotone noise. By implementing background music, configuring monitor refresh rate, and game status computation, we produced a prototype that is playful and sufficient for real-world use.
 
 ![](./img/controller.jpg)
